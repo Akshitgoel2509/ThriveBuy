@@ -90,7 +90,12 @@ What did you learn while building this project? What challenges did you face and
 ```
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://i.imgur.com/sA9JNEn.jpeg)
+![App Screenshot](https://i.imgur.com/Nxt06tw.png)
+![App Screenshot](https://i.imgur.com/llxvE9p.png)
+![App Screenshot](https://i.imgur.com/KdhdpPX.png)
+![App Screenshot](https://i.imgur.com/x5zfJ0p.png)
+![App Screenshot](https://i.imgur.com/TDRONZE.png)
 
 
 
