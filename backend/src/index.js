@@ -7,7 +7,7 @@ import billingData from "../Routes/billingData.js";
  const port=4000;
 
  app.use((req,res,next)=>{
-   res.setHeader("Access-Control-Allow-Origin","http://localhost:5173");
+   res.setHeader("Access-Control-Allow-Origin","https://thrive-buy.vercel.app");
    res.header(
      "Access-Control-Allow-Headers",
      "Origin, X-Requested-With,Accept,content-type,Authorization",
